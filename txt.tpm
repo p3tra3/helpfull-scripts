@@ -1,0 +1,1 @@
+{"files":[{"pattern":"*.txt","rules":[{"type":"regex","pattern":"/^[^\\r\\n]+$/gm"}],"toGrid":""}]}
